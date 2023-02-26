@@ -1,0 +1,9 @@
+body.dark{
+    background-color: #1E1E1E;
+}
+body.dark header h1{
+    filter: invert(1);
+}
+body.dark #darkmode{
+    background-position: right center;
+}

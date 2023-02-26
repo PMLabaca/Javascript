@@ -1,0 +1,91 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Body Milan",
+        "stock": 1,
+        "precio": 6000,
+        "img": "../img/bodys1.jpeg",
+        "oferta": false,
+        "categoria": "bodys",
+        "desc": "Body de encaje y microtul con taza forrada, espalda descubierta."
+    },
+    {
+        "id": 2,
+        "nombre": "Body Amalfi Morley",
+        "stock": 1,
+        "precio": 2750,
+        "img":"../img/bodys2.jpeg",
+        "oferta": true,
+        "categoria": "bodys",
+        "desc": "Body de morley elastizado , super comodo para usarlo a diario y combinarlo en todos tus looks !"
+    },
+    {
+        "id": 3,
+        "nombre": "Body Cartagena",
+        "stock": 1,
+        "precio": 6000,
+        "img":"../img/bodys3.jpeg",
+        "oferta": false,
+        "categoria": "bodys",
+        "desc": "Body confeccionado en microtul, con doble forreria en el busto."
+    },
+    {
+        "id": 4,
+        "nombre": "Less de algodon regulable-PACKx2",
+        "stock": 1,
+        "precio": 2500,
+        "img":"../img/bombis1.jpeg",
+        "oferta": true,
+        "categoria": "bombis",
+        "desc": "Less regulable de algodon."
+    },
+    {
+        "id": 5,
+        "nombre": "Tanga Anastasia Triple",
+        "stock": 1,
+        "precio": 3000,
+        "img": "../img/bombis2.jpeg",
+        "oferta": true,
+        "categoria": "bombis",
+        "desc": "Tanga con triple tira."
+    },
+    {
+        "id": 6,
+        "nombre": "Bombis PACKx3",
+        "stock": 1,
+        "precio": 4000,
+        "img":"../img/bombis3.jpeg",
+        "oferta": false,
+        "categoria":"bombis",
+        "desc": "Paquete de tres bombachas, talle unico."
+    },
+    {
+        "id": 7,
+        "nombre": "Conjunto Eva",
+        "stock": 1,
+        "precio": 6000,
+        "img":"../img/conjunto1.jpeg",
+        "oferta": false,
+        "categoria": "conjunto"
+    },
+    {
+        "id": 8,
+        "nombre": "Corset Martina",
+        "stock": 1,
+        "precio": 6000,
+        "img":"../img/conjunto2.jpeg",
+        "oferta": true,
+        "categoria":"conjunto"
+    },
+    {
+        "id": 9,
+        "nombre": "Conjunto Granada",
+        "stock": 1,
+        "precio": 6000,
+        "img":"../img/conjunto3.jpeg",
+        "oferta": true,
+        "categoria":"conjunto",
+        "desc": "Corpiño formato Bustier, un clasico eterno y super comodo, con el detalle de la espalda cruzada. Less Regulable, con laterales finos. Confeccionado en Encaje"
+    }    
+]
